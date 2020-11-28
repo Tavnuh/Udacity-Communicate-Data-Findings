@@ -1,10 +1,9 @@
-# Comparing Strings - Levenshtein Distance and Cosine Similarity
+# Udacity Final Project - Communicate Data Findings
 
-Credit: Built on top of the work of Dario Radecic in [Calculating String Similarity](https://towardsdatascience.com/calculating-string-similarity-in-python-276e18a7d33a)
+Divided into two major parts, this project involves EDA of a dataset (the Prosper Loans dataset) to investigate the structure, relationships, patterns and issues with the data. 
+The second part is an explanatory analysis of findings, communicated through a slide-deck generated from a Jupyter Notebook.
 
-A short notebook containing a function and examples of Levenshtein Distance and Cosine Similarity
-- Levenshtein Distance - Returns a number that expresses the number of single unit character changes required to get from one string to another. The function specifically cleans email address and name strings, and compares them, returning a value for how many changes would be required. The intention is to use this as a feature in a machine learning model for fraud prevention.
-- Cosine Similarity - Returns a value for how "similar" two sentences are. 
+The emphasis of this project is the importance of data visualisation and it's role in locating patterns and relationships, and communicating insights.
 
 
 ## Creator
@@ -14,9 +13,3 @@ A short notebook containing a function and examples of Levenshtein Distance and 
 * https://www.linkedin.com/in/michael-t-20b27797/
 
 
-# Libraries Used
-### string
-### Levenshtein
-### re
-### sklearn
-### nltk
